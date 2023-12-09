@@ -9,3 +9,6 @@ This project provides a thread-safe implementation of an LFU (Least Frequently U
 - Thread-safe operations ensuring consistency under concurrent access.
 - Time-based entry expiration.
 - O(1) time complexity.
+
+## Design
+![design.svg](design.svg)
